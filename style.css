@@ -1,0 +1,22 @@
+/* 
+Theme name: zBoom Music
+Theme URI: http://techearty.com
+Author: Hridoy
+Author URI://techearty.com
+Version: 1.0
+Description: Simple Music WordPress Theme
+Tags: Music, Song, Simple Theme
+Textdomain: zboom
+*/
+
+.comment-body .comment-author img {
+    height: 40px;
+    width: 40px;
+}
+
+.right-sidebar ul {
+    background: #1E1E1E;
+    margin-left: 0 !important;
+    padding-left: 20px;
+}
+
